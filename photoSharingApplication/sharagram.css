@@ -1,0 +1,39 @@
+h2 {
+    font-family: verdana, sans-serif;
+    color: blue;
+}
+
+h4 {
+    font-family: verdana, sans-serif;
+    color: blue;
+}
+
+body {
+    line-height: 2em;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0em;
+    margin-bottom: 5em;
+    font-family: Comic Sans;
+	}
+
+.heading {
+    background-color: #ccffff;
+    color: #0077b3;
+            
+        }
+
+.login {
+    background-color: #c2c2d6;
+    color: #6666ff;
+        
+}
+
+.error {
+    color: red;
+    }
+
+.pass {
+    color: green;
+    }
+
